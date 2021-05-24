@@ -43,8 +43,9 @@ Some columns are not informative or helpfull for this task, e.g. all columns wit
 
 Some infos to 'station_number' and 'wban_number':
 
-    (station_number?) WMO Identifiers - The World Meteorological Organization relies on a 5-digit numeric code to identify a weather station. It is widely used in synoptic and upper air reports. The entire identifier is often called the "index number". The first two digits are sometimes referred to as the "block number" and refer to the geographic area (00-29 Europe, 30-59 Asia, 60-69 Africa, 70-79 North America, 80-89 South America, 90-99 Oceania). The last three digits are loosely referred to as the "station number" in the context of "block numbers".
-    WBAN - The WBAN (Weather Bureau Army Navy) identifier is a 5-digit identifier developed in the 1950s to augment the system of longline identifiers. It is still used by NCDC to identify many of its climatological datasets and thus continues to be important.
+   - (station_number?) WMO Identifiers - The World Meteorological Organization relies on a 5-digit numeric code to identify a weather station. It is widely used in synoptic and upper air reports. The entire identifier is often called the "index number". The first two digits are sometimes referred to as the "block number" and refer to the geographic area (00-29 Europe, 30-59 Asia, 60-69 Africa, 70-79 North America, 80-89 South America, 90-99 Oceania). The last three digits are loosely referred to as the "station number" in the context of "block numbers".
+    
+   - WBAN - The WBAN (Weather Bureau Army Navy) identifier is a 5-digit identifier developed in the 1950s to augment the system of longline identifiers. It is still used by NCDC to identify many of its climatological datasets and thus continues to be important.
 
 [http://www.weathergraphics.com/identifiers/index.htm]
 
